@@ -1,0 +1,13 @@
+Real time twitter data
+
+Converting to json
+
+Hash tag analysis
+
+Finding frequency
+
+Preprocessing - tokenization, stop word removal, normalisation ---> aggregation of different units eg. case noramlisation for the frequency
+
+Text analysis
+
+Time series analysis
